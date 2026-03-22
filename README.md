@@ -64,7 +64,7 @@ Display digit images using Matplotlib
 Analyze prediction results visually
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/digital-recognizer.git
+git clone https://github.com/johnlaraji1608-collab/digitalregonizier_randomforest_classification/blob/main/README.md
 Navigate to the project:
 cd digital-recognizer
 Install dependencies:
